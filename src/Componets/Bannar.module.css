@@ -1,0 +1,75 @@
+#bannar .container .row{
+    padding-top: 67px;
+     
+
+}
+#bannar .container h4{
+    font-family:"Poppins";
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 36px;
+    color: #353535;
+    padding: 67px 0px 8px 0px;
+    
+}
+#bannar .container h2{
+    font-family: "PT Sans";
+    font-size: 64px;
+    font-weight: 700;
+    line-height: 82.82px;
+    padding: 8px 0px 12px 0px;
+}
+#bannar .container p{
+    font-family:"Poppins";
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 36px;
+    color:#353535;
+
+}
+#bannar .container .btngroup{
+ padding-top: 45px;
+}
+#bannar .container .btngroup a{
+    font-family: "Poppins";
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 36px;
+    color: #ffffff;
+}
+#bannar .container .btngroup a:last-child{
+    color: #000000;
+    margin-left: 40px;
+}
+#bannar .icon{
+    padding-top: 70px;
+    padding-bottom: 144px;
+}
+#bannar .icon span{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    background-color: #FFCC00;
+    text-align: center;
+    line-height: 40px;
+    background-color: #FBFBFB;
+}
+#bannar .icon  p{
+    font-family:"Poppins";
+font-size: 22px;
+font-weight: 500;
+line-height: 39.6px;
+text-align: left;
+color:  #353535;
+;
+
+}
+#bannar .row{
+    position: relative;
+   
+}
+#bannar .image{
+    position: absolute;
+    left: 45%;
+    top: 85%;
+}
